@@ -1,0 +1,19 @@
+/* Responsivo */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.2rem;
+    }
+
+    main h2 {
+        font-size: 1.5rem;
+    }
+
+    header p,
+    main p {
+        font-size: 1rem;
+    }
+
+    .container {
+        padding: 1rem;
+    }
+}
