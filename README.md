@@ -39,6 +39,19 @@
 
 <br>
 
+## ✨ Features
+
+- 👋 Friendly welcome message with quick reply options  
+- 📍 Provides farm location via link  
+- 📆 Shows availability and reservation guidance  
+- 📲 Redirects to WhatsApp for direct communication  
+- 🤖 Guided conversation with Botpress Cloud  
+- 🖥️ Fully embeddable in any webpage (iframe or script)  
+- 💬 User-friendly for non-tech-savvy visitors  
+- 🎨 Custom HTML/CSS design matching the farm's branding  
+
+
+<br>
 
 
 ## 💻 Project
