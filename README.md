@@ -14,3 +14,17 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32a852&labelColor=000000">
+</p>
+
+## 📸 Screenshots
+
+<br>
+
+<p align="center">
+  <img src="src/img/chatbot-preview.png" alt="chatbot preview">
+</p>
+
+<br>
