@@ -1,4 +1,4 @@
-<h1 align="center"> Chácara Amaral 🌾 </h1> 
+<h1 align="center"> Chácara Amaral Project 🌾 </h1> 
 
 <p align="center">Conversational Assistant for a Rural Property</p>
 
@@ -58,3 +58,7 @@
 <p> Contributions, suggestions, and improvements are very welcome! Feel free to open issues or pull requests. 😉 </p>
 
 <br>
+
+## 🌟 Support
+
+<p> If you like this project, please give it a ⭐ and share it to help others discover this solution! 😄 </p>
