@@ -52,3 +52,9 @@
 * This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
+
+## 🫱🏻‍🫲🏻 Contributing
+
+<p> Contributions, suggestions, and improvements are very welcome! Feel free to open issues or pull requests. 😉 </p>
+
+<br>
