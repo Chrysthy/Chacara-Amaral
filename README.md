@@ -37,3 +37,10 @@
 - Webchat v2.4;
 
 <br>
+
+## 💻 Project
+
+- This chatbot was created for a **family-owned farm** to help automate first contact with visitors.
+- It provides quick replies for frequently asked questions, location access, and WhatsApp redirection for bookings.
+- The chatbot flow was built using **Botpress Cloud**, and the interface was embedded manually using custom HTML, CSS and JS.
+- Simple, accessible, and efficient — perfect for non-tech-savvy users.
