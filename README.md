@@ -28,3 +28,12 @@
 </p>
 
 <br>
+
+## 🛠 Technologies
+- HTML5;
+- CSS3;
+- JavaScript;
+- Botpress Cloud;
+- Webchat v2.4;
+
+<br>
