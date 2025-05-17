@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32a852&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
 ## 📸 Screenshots
@@ -44,3 +44,11 @@
 - It provides quick replies for frequently asked questions, location access, and WhatsApp redirection for bookings.
 - The chatbot flow was built using **Botpress Cloud**, and the interface was embedded manually using custom HTML, CSS and JS.
 - Simple, accessible, and efficient — perfect for non-tech-savvy users.
+
+<br>
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+<br>
